@@ -1,0 +1,8 @@
+welcome_message: "Salut mon fan! Je suis ravie de te parler."
+llm_model: gpt-3.5-turbo
+voice_id: "your-voice-id"
+free_message_limit: 3
+ppv_link: "https://onlyfans.com/ppv-placeholder"
+video_link: "https://onlyfans.com/video-placeholder"
+voice_upsell: "Tu veux entendre plus de moi ? Clique ici : {link}"
+video_upsell: "Pour une vidéo exclusive, c'est par ici : {link}"
